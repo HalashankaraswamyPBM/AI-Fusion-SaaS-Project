@@ -1,6 +1,4 @@
-![Landing Page 3](https://github.com/user-attachments/assets/f4702e50-6490-4550-a409-652f0352443c)
-![Landing Page 2](https://github.com/user-attachments/assets/15bee894-f232-41fe-bb22-223f71c3cec9)
-![Landing Page 1](https://github.com/user-attachments/assets/fdb62c27-48b6-4203-88b7-42a13870d37b)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
