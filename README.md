@@ -1,6 +1,4 @@
-![Flow Chart](https://github.com/user-attachments/assets/0f23ac4f-ae57-41f4-ad8b-41b66dd93407)
 
-![AI Fusion Architecture](https://github.com/user-attachments/assets/12c6a619-4e29-4a15-a761-fab0d34b7095)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
