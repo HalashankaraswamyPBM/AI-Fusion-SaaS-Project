@@ -1,4 +1,6 @@
+![Flow Chart](https://github.com/user-attachments/assets/d4c2287b-ef34-43b0-a873-8730f46db163)
 
+![Architecture](https://github.com/user-attachments/assets/3a5c7139-ac79-4635-8717-b2e7c9509ab9)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
